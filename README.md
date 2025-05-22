@@ -25,6 +25,10 @@ The dataset used in this study is publicly available at:
 ## 📜 License
 This project is licensed under the MIT License.
 
-## 🧠 Citation
-Please cite the associated publication if you use this code in your work. (To be added upon publication.)
+## 🧠 How to Cite
+
+If you use this codebase in your research, please cite it using the following DOI:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15489302.svg)](https://doi.org/10.5281/zenodo.15489302)
+
+
 
